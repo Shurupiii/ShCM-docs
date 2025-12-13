@@ -7,7 +7,7 @@ entityShadows:true
 forceUnicodeFont:false
 japaneseGlyphVariants:false
 fov:0.375
-fovEffectScale:1.0
+fovEffectScale:0.99
 darknessEffectScale:1.0
 glintSpeed:0.5
 glintStrength:0.75
@@ -200,3 +200,4 @@ modelPart_right_pants_leg:true
 modelPart_hat:true
 fsit.sitMode:2
 fsit.crawlMode:2
+
