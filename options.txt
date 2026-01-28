@@ -288,3 +288,4 @@ modelPart_right_pants_leg:true
 modelPart_hat:true
 fsit.sitMode:2
 fsit.crawlMode:2
+
